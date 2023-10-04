@@ -32,7 +32,7 @@ Docker very simple project with a Javascript application.
 | ----------  | ------ | --------- | -------------- | ----- |
 |docker-hello | latest | xxxxxxxxx | 36 seconds ago | 181MB |
 
-8) Run the Docker Image (create the Docker Container!!!)
+8) Run the Docker Image (create the **Docker Container**)
 ```
    $ docker run docker-hello
 ```
