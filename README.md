@@ -30,11 +30,13 @@ Docker very simple project
 
    docker-hello   latest    xxxxxxxxxxxx   36 seconds ago   181MB
 
-9) Run the Docker Image (create the Docker Container!!!)
-  $ docker run docker-hello
+8) Run the Docker Image (create the Docker Container!!!)
 
-10) You should see:
-  $ Hello Docker
+   $ docker run docker-hello
+
+9) You should see:
+  
+   $ Hello Docker
 
 
 
