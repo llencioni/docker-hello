@@ -48,6 +48,9 @@ https://www.youtube.com/watch?v=pTFZFxd4hOI&list=PLCD3diFGpOGz_8f_v6mRu-r5s5ufRV
 
 https://www.youtube.com/watch?v=pg19Z8LL06w
 
+https://www.geeksforgeeks.org/execution-of-c-program-using-docker-environment/
+
+
 
 
 
